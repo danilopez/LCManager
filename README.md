@@ -12,3 +12,5 @@ Este es un proyecto de colaboración con IAESTE Málaga.
 
 * [MAMP](http://www.mamp.info/en/downloads/)
 
+# Intalación
+Clona los archivos de este repositorio.
