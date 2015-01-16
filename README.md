@@ -6,7 +6,6 @@ Este es un proyecto de colaboración con IAESTE Málaga.
 
 * [XAMPP](https://www.apachefriends.org/download.html) (Windows/Linux/Mac)
 * [MAMP](http://www.mamp.info/en/downloads/) (Mac)
-* [Composer](https://getcomposer.org/download/)
 
 # Intalación
 1. Instala XAMPP/MAMP
