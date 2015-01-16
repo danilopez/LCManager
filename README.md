@@ -9,7 +9,7 @@ Este es un proyecto de colaboración con IAESTE Málaga.
 * [Composer](https://getcomposer.org/download/)
 
 # Intalación
-* Instala XAMPP/MAMP
-** Configura XAMPP/MAMP apuntando la carpeta de servidor a la carpeta donde vas guardar el proyecto
-* Clona los archivos de este repositorio en la carpeta que has configurado previamente.
-* No olvides cambiar a la rama de desarrollo.
+1. Instala XAMPP/MAMP
+2. Configura XAMPP/MAMP apuntando la carpeta de servidor a la carpeta donde vas guardar el proyecto
+3. Clona los archivos de este repositorio en la carpeta que has configurado previamente.
+4. No olvides cambiar a la rama de desarrollo.
