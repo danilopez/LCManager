@@ -1,6 +1,6 @@
-# IAESTE Málaga
+# LCManager
 
-Este es un proyecto de colaboración con IAESTE Málaga.
+Gestión de Local Committees para IAESTE.
 
 # Requisitos para desarrollo en local
 
