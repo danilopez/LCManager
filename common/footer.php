@@ -1,7 +1,9 @@
-<footer>
-    <div class="row">
-        <div class="col-lg-12">
-            <p>Copyright &copy; IAESTE Málaga <?php echo date("Y"); ?></p>
-        </div>
+      </div>
     </div>
-</footer>
+    <!-- /.container-fluid -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="<?php echo getBaseUrl() ?>/js/bootstrap.min.js"></script>
+  </body>
+</html>
